@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, mein Name ist Elias Käferböck</h1>
 <h3 align="center">Ein ehrgeiziger und wissbegieriger Schüler aus Österreich</h3>
 
-- 🌱 Ich lerne Aktuell **Java & Mariadb**
+- 🌱 Ich lerne aktuell **Java & Mariadb**
 - 📫 Erreichbar bin ich unter **elias.kaeferboeck@gmx.at**
 
 <h3 align="left">Sprachen und Werkzeuge:</h3>
